@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Savage XR
+Exec=savagexr
+Icon=${SNAP}/meta/gui/org.newerth.savagexr.icon256.png
+Categories=Game;
+Terminal=false
+StartupNotify=true
+StartupWMClass=savage.exe
+Keywords=game
+Name[en_GB]=savagexr
